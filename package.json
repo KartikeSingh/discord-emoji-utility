@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "node-emoji": "^1.11.0"
+  },
+  "name": "discord-emoji-utility",
+  "version": "0.0.1",
+  "description": "Utility package for discord emojis",
+  "main": "src/index.js",
+  "devDependencies": {
+    "@types/node-emoji": "^1.8.2"
+  },
+  "scripts": {
+    "build": "npx tsc --project tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KartikeSingh/discord-emoji-utility.git"
+  },
+  "keywords": [
+    "discord",
+    "emoji"
+  ],
+  "author": "Shisui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KartikeSingh/discord-emoji-utility/issues"
+  },
+  "homepage": "https://github.com/KartikeSingh/discord-emoji-utility#readme"
+}
