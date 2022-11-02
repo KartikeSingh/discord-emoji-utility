@@ -6,7 +6,8 @@
   "name": "discord-emoji-utility",
   "version": "0.0.1",
   "description": "Utility package for discord emojis",
-  "main": "src/index.js",
+  "main": "dist/index.js",
+  "types": "src/index.ts",
   "devDependencies": {
     "@types/node-emoji": "^1.8.2"
   },
